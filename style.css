@@ -1,7 +1,7 @@
 body{
     width:100%;
     height: 100%;
-  background-image: url('https://i.pinimg.com/originals/a9/48/fb/a948fbfa034a11e10eecc6490c29db22.png');
+  background-image: url(https://i.pinimg.com/originals/a9/48/fb/a948fbfa034a11e10eecc6490c29db22.png);
     background-size: cover;
     background-repeat:none;
     position: fixed;
